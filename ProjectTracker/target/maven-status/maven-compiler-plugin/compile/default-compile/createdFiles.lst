@@ -1,0 +1,8 @@
+com\imazani\ProjectTracker\repository\ProjectRepository.class
+com\imazani\ProjectTracker\model\Note.class
+com\imazani\ProjectTracker\repository\UserRepository.class
+com\imazani\ProjectTracker\model\Project.class
+com\imazani\ProjectTracker\model\User.class
+com\imazani\ProjectTracker\dto\ProjectDetails.class
+com\imazani\ProjectTracker\ProjectTrackerApplication.class
+com\imazani\ProjectTracker\controller\ProjectController.class
